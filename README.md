@@ -1,6 +1,6 @@
 
 <h4> Controlflow </h4>
-Hieronder een controlflow van de gemaakte oplossing voor Vini Mini. Ook te vinden in de leertaak. 
+Hieronder een controlflow van de gemaakte oplossing voor Vini Mini. Ook te vinden in de repository van de leertaak. 
 
 <br>
 
