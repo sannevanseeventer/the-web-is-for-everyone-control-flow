@@ -1,6 +1,6 @@
 
 <h4> Controlflow </h4>
-Hieronder een controlflow van de gemaakte oplossing voor Vini Mini. Ook te vinden in deze [repository](https://github.com/sannevanseeventer/the-web-is-for-everyone-interactive-functionality)
+Hieronder een controlflow van de gemaakte oplossing voor Vini Mini. Ook te vinden in de leertaak. 
 
 <br>
 
